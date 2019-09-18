@@ -1,5 +1,5 @@
 # Numerical-Berry-curvature
-Numerical implementation of Berry curvature calculation for tight binding Hamiltonians.
+Numerical implementation of Berry curvature and orbital moment calculation for tight binding Hamiltonians.
 
 This numerical routine has been used for calculating the magneto-tranpsort properties in several topological materials.
 

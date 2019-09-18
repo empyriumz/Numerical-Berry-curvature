@@ -6,10 +6,14 @@ This numerical routine has been used for calculating the magneto-tranpsort prope
 See [Phys. Rev. Lett. 119, 166601](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.119.166601) for results.
 
 ## Usage
-The Mathematica notebook is a demo for a $4\times 4$ Hamiltonian describing the low-energy effective model of Bi$_2$Se$_3$.
+The Mathematica notebook is a demo for a 4*4 Hamiltonian describing the low-energy effective model of Bi2Se3 in the presence of z-direction external magnetic field.
+
+Assuming the fermi level cross the upper bands, the demo calculates the Berry curvature as well as orbital moment distribution in the discretized k-space. 
+
+You can subsitute your own non-interacting Hamiltonian and model parameters to do your own calculations.
 
 ## Requirement
-Mathematica 10.0 or higher
+Tested in Mathematica 10.0 and higher versions.
 
 Optional: [MaTeX](https://github.com/szhorvat/MaTeX) package for using LaTeX in Mathematica
 
